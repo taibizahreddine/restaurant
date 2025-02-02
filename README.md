@@ -14,3 +14,9 @@ Une application web permettant aux restaurants de gérer les commandes en ligne.
 - **Base de données :** MySQL (PHPMyAdmin).
 
 
+## 🔧 Installation
+1. Clonez ce projet : https://github.com/taibizahreddine/restaurant.git
+2. Déplacez-le dans **htdocs** (`C:/xampp/htdocs/` sous Windows).
+3. Importez `database.sql` dans **PHPMyAdmin**.
+4. Configurez `config.php` avec vos identifiants MySQL.
+5. Démarrez Apache/MySQL avec XAMPP et accédez à `http://localhost/backup`.
