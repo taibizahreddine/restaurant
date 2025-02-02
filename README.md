@@ -19,4 +19,4 @@ Une application web permettant aux restaurants de gérer les commandes en ligne.
 2. Déplacez-le dans **htdocs** (`C:/xampp/htdocs/` sous Windows).
 3. Importez `database.sql` dans **PHPMyAdmin**.
 4. Configurez `config.php` avec vos identifiants MySQL.
-5. Démarrez Apache/MySQL avec XAMPP et accédez à `http://localhost/backup`.
+5. Démarrez Apache/MySQL avec XAMPP et accédez à `http://localhost/<nom_du_dossier>`.
