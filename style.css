@@ -1,0 +1,147 @@
+
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+  
+    width: 80%;
+    margin: 0 auto;  /* raha mka7za la page à droit*/
+    padding: 1%;
+   
+}
+.responsive-img{
+    width: 100%;
+
+}
+.curve-img{
+    border-radius: 15px;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-center{
+    text-align: center;
+}
+.text-white{
+    color: white;
+}
+.effacement{
+    clear: both;
+float: none;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(76, 72, 72);
+}
+.btn{
+    padding: 1%;
+    border: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    
+}
+.btn-premier{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.btn-premier:hover{
+    color: white;
+    background-color:  rgb(76, 72, 72);
+}
+
+h2{
+    color:#2f3542;
+    font-size: 2rem;
+    margin-bottom: 2%;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+.float-container{
+    position: relative;
+}
+
+.float-text{
+    position: absolute;
+    bottom: 50px;
+    left: 37%;
+}
+
+
+/* css bdn section */
+.logo{
+    width: 10%;
+  
+    float: left;
+}
+.menu{
+    line-height: 60px;
+}
+
+.menu  ul{
+list-style-type: none;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
+
+
+/* css for recherche-plat */
+
+
+
+/* css pour menu */
+.menu-plat{
+    background-color: #ececec;
+    padding: 4% 0;
+}
+.menu-plat-box{
+    border: 1px solid black;
+    width:43%;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+    background-color: white;
+    border-radius: 15px;
+   
+}
+.menu-plat-img{
+    width: 20%;
+    float: left;
+}
+.description{
+    width: 70%;
+    float: left;
+    margin-left: 8%;
+}
+.prix-plat{
+    font-size: 1.2rem;
+    margin: 2% 0;
+}
+
+.detail-plat{
+    font-size: 1rem;
+}
+
+
+
+
+
+
+
+
+
